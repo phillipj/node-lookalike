@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: phillipj/node-pr-labeler@v1
+      - uses: phillipj/node-pr-labeler@poc
