@@ -151,7 +151,7 @@ exlusiveLabels:
 
   /^benchmark\//: benchmark
   
-  /^unicorn\//: 🦄
+  /^unicorn\//: 🦄 unicorn
 
 allJsSubSystems:
   - assert
