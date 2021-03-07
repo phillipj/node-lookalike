@@ -150,6 +150,8 @@ exlusiveLabels:
   /^benchmark\/([^/]+)\//: benchmark, $1
 
   /^benchmark\//: benchmark
+  
+  /^unicorn\//: 🦄
 
 allJsSubSystems:
   - assert
