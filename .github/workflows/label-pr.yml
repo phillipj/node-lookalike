@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: phillipj/node-pr-labeler@v1
         with:
-          configuration-path: ./github/pr-labels.yml
+          configuration-path: .github/pr-labels.yml
