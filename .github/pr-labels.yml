@@ -154,6 +154,7 @@ exlusiveLabels:
   /^benchmark\//: benchmark
 
   /^unicorn\//: 🦄 unicorn
+  /^party\//: 🥳 party
 
 allJsSubSystems:
   - assert
