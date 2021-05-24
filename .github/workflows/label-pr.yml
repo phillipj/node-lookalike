@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: nodejs/node-pr-labeler@71eb210
+      - uses: nodejs/node-pr-labeler@71eb21029b84101f73f0bd54fb0e10886454e050
         with:
           configuration-path: .github/pr-labels.yml
